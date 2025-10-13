@@ -50,7 +50,7 @@ ninja.data = [{
           title: 'Cell Detection',
           description: "Domain-adaptive and deformable convolution-based cervical cell detection with medical LLM fine-tuning",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/detection";
+              window.location.href = "/projects/detection.html";
             },},{id: "projects-edu-platform",
           title: 'Edu Platform',
           description: "AI-powered educational system with Text2SQL &amp; RAG &amp; Chatbot",
