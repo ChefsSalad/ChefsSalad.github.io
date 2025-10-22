@@ -22,17 +22,14 @@ ninja.data = [{
           section: "News",},{id: "news-honored-to-attend-the-2023-health-china-sinan-summit-as-an-invited-participant",
           title: 'Honored to attend the 2023 Health China Sinan Summit as an invited participant....',
           description: "",
-          section: "News",},{id: "news-won-first-prize-in-the-shanghai-collegiate-application-technology-competition-enterprise-cooperation-track",
-          title: 'Won First Prize in the Shanghai Collegiate Application Technology Competition (Enterprise Cooperation Track)....',
-          description: "",
           section: "News",},{id: "news-the-automatic-annotation-system-for-cervical-liquid-based-pathology-images-project-i-led-was-awarded-national-level-status-in-china-college-students-innovation-and-entrepreneurship-competition",
           title: 'The “Automatic Annotation System for Cervical Liquid-based Pathology Images” project I led was...',
           description: "",
-          section: "News",},{id: "news-received-national-6th-place-in-the-china-college-student-computer-design-competition-4c",
-          title: 'Received National 6th Place in the China College Student Computer Design Competition (4C)...',
+          section: "News",},{id: "news-received-national-6th-place-in-the-china-college-student-computer-design-competition-4c-1st-prize-in-the-shanghai-collegiate-application-technology-competition",
+          title: 'Received National 6th Place in the China College Student Computer Design Competition (4C);...',
           description: "",
-          section: "News",},{id: "projects-mf-agents",
-          title: 'MF Agents',
+          section: "News",},{id: "projects-multi-agent-financial-model",
+          title: 'Multi-Agent Financial Model',
           description: "A novel multi-agent framework for quantitative trading.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MFA.html";
@@ -43,11 +40,11 @@ ninja.data = [{
               window.location.href = "/projects/MM.html";
             },},{id: "projects-vpe-seg",
           title: 'VPE Seg',
-          description: "First-place solution in a national AI medical competition.",
+          description: "First-place solution in a national AI medical competition.Invited by 2023 Health China Sinan Summit.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/VPE.html";
-            },},{id: "projects-cell-detection",
-          title: 'Cell Detection',
+            },},{id: "projects-cervical-cell-detection",
+          title: 'Cervical Cell Detection',
           description: "Domain-adaptive and deformable convolution-based cervical cell detection with medical LLM fine-tuning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/detection.html";
@@ -56,9 +53,9 @@ ninja.data = [{
           description: "AI-powered educational system with Text2SQL &amp; RAG &amp; Chatbot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/edu.html";
-            },},{id: "projects-satellite",
-          title: 'Satellite',
-          description: "Research on satellite AI application",
+            },},{id: "projects-remote-sensing-data-research",
+          title: 'Remote sensing data Research',
+          description: "Research on satellite AI application, including large Visual-Language Model, Image-Text Matching, Super-Resolution, Object Detection, Segmentation, Edge Enhancement and so on.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/satellite.html";
             },},{
