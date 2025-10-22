@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cell Detection"
+title: "Cervical Cell Detection"
 description: "Domain-adaptive and deformable convolution-based cervical cell detection with medical LLM fine-tuning"
 img: assets/img/medical/domain_adapt_arch.png
 importance: 4

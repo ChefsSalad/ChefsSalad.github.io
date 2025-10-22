@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Satellite"
-description: "Research on satellite AI application"
+title: "Remote sensing data Research"
+description: "Research on satellite AI application, including large Visual-Language Model, Image-Text Matching, Super-Resolution, Object Detection, Segmentation, Edge Enhancement and so on."
 img: assets/img/satellite/redsr.png
 importance: 3
 category: research

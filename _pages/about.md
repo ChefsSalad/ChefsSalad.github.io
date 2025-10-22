@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>M.S. Candidate in Computational Science at <a href='https://www.imperial.ac.uk/'>Imperial College London</a>.</b>
+subtitle: <b>MSc Candidate in Computational Science at <a href='https://www.imperial.ac.uk/'>Imperial College London</a>.</b>
 
 profile:
   align: right
@@ -37,25 +37,40 @@ latest_posts:
 <span style="font-size: 1.6em;">👋</span> **Welcome to my Hub!.**
 
 
-<span style="font-size: 1.6em;">💡</span> **Core Motivation:** My work is dedicated to the deep exploration and practical application of frontier AI technologies. I focus specifically on **Multimodal AI** and **Language Modeling**, aiming to bridge data types (e.g., text, vision, audio).
+<span style="font-size: 1.6em;">💡</span> **Research Interests:** My interest centers on the deep exploration and practical implementation of frontier artificial intelligence technologies, with a particular emphasis on **multimodal AI** that bridges heterogeneous data modalities (e.g., vision, audio, and text) to tackle **complex, real-world problems**.
 
-<span style="font-size: 1.6em;">🚀</span> **Next Goal:** I am actively exploring high-impact **R&D opportunities** that allow me to engage and collaboratively make a significant contribution to the field.
+<span style="font-size: 1.6em;">🚀</span> **Current Goal:** I am actively exploring high-impact **Research Assistant opportunities** to contribute to cutting-edge research in **multimodal learning, computer vision, and medical analysis**, and to collaborate with researchers pushing the frontier of machine perception.
 
----
+
 <span style="font-size: 1.5em;">💻</span> <b><span style="font-size: 1.1em;"> Internship & Research Experience </span></b>
 
 
 - <b><a href='http://english.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a></b>
 
-    - **AI Intern \| 08/2024 – 01/2025**
+    **AI Intern \| 08/2024 – 01/2025**
 
-    - **Key Focus:** Vision-Language Model (VLM) ｜ Image-Text matching ｜ Super resolution and downstream tasks
+    **Key Focus & Keywords:** 
+    - Cross-Modal Representation Learning, Vision-Language Models (VLMs)
+    - Contrastive Learning (CLIP)
+    - Super-Resolution and image Reconstruction
+    - Object Detection and Segmentation based on Edge Enhancement and Super-Resolution 
+    - Traditional computer image processing
+  
+<p></p>
+
 
 - <b>Artificial Intelligence Quantitative Research Lab (Shanghai)</b>
 
-    - **AI Intern \| 02/2025 - 08/2025**
+    **AI Intern \| 02/2025 - 08/2025**
 
-    - **Key Focus:** Multi-Agent Financial Model ｜ Financial semantic quantification ｜ Heterogeneous Information Attention Fusion Engine
+    **Key Focus & Keywords:** 
+    - Multi-Agent Financial Model
+    - Cross-Streams Attention,QKV interactions
+    - Semantic Quantification from financial text
+    - Time series forecasting
+    - LaTeX, Academic Writing
+  
+   
 
 
 <!-- <p style="text-align: center; margin-top: 20px;">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MF Agents"
+title: "Multi-Agent Financial Model"
 description: "A novel multi-agent framework for quantitative trading."
 img: assets/img/MFA/frame.jpg
 importance: 2

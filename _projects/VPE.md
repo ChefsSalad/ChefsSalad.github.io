@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "VPE Seg"
-description: "First-place solution in a national AI medical competition."
+description: "First-place solution in a national AI medical competition.Invited by 2023 Health China Sinan Summit."
 img: assets/img/VES/sliceattention.png
 importance: 1
 category: research
@@ -16,7 +16,7 @@ It was subsequently invited for presentation at the **2023 Healthy China Sinan S
 
 #### 🧠 **Project Overview**
 
-This project introduces a novel **Visual Perception-Enhanced Segmentation (VES)** framework designed for lightweight and accurate medical image segmentation.  
+This project introduces a novel **Visual Perception-Enhanced Segmentation (VPES)** framework designed for lightweight and accurate medical image segmentation.  
 It focuses on preprocessing, slice-wise attention, and collaborative dual-branch perception to enhance robustness and precision.
 
 ---
