@@ -62,7 +62,7 @@ To further integrate medical reasoning and reporting capability:
 * The proposed detection framework significantly improves **cell boundary localization** and **classification precision** in the cervical cell domain.  
 * Domain adaptation reduces performance gaps across different hospital datasets.
 
-{% include figure.liquid path="assets/img/medical/etection_result.png" title="Visual results of cervical cell detection after domain adaptation" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/medical/detection_result.png" title="Visual results of cervical cell detection after domain adaptation" class="img-fluid rounded z-depth-1" %}
 
 ---
 

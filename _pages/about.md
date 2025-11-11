@@ -48,7 +48,7 @@ Some of my articles are currently under review. Please visit the **Projects** pa
 
 - <b><a href='http://english.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a></b>
 
-    **AI Intern \| 08/2024 – 01/2025**
+    **Research Assistant \| 08/2024 – 01/2025**
 
     **Key Focus & Keywords:** 
     - Cross-Modal Representation Learning, Vision-Language Models (VLMs)
