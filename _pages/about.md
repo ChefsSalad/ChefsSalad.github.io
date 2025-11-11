@@ -36,10 +36,11 @@ latest_posts:
 
 <span style="font-size: 1.6em;">👋</span> **Welcome to my Hub!.**
 
+Some of my articles are currently under review. Please visit the **Projects** page for related work, and feel free to check out the code on my <a href="https://github.com/ChefsSalad">**GitHub**</a>.
 
-<span style="font-size: 1.6em;">💡</span> **Research Interests:** My interest centers on the deep exploration and practical implementation of frontier artificial intelligence technologies, with a particular emphasis on **multimodal AI** that bridges heterogeneous data modalities (e.g., vision, audio, and text) to tackle **complex, real-world problems**.
+<span style="font-size: 1.6em;">💡</span> **Research Interests:****Multimodal AI** that bridges heterogeneous data modalities (e.g., vision, audio, and text) to tackle **complex, real-world problems**.
 
-<span style="font-size: 1.6em;">🚀</span> **Current Goal:** I am actively exploring high-impact **Research Assistant opportunities** to contribute to cutting-edge research in **multimodal learning, computer vision, and medical analysis**, and to collaborate with researchers pushing the frontier of machine perception.
+<span style="font-size: 1.6em;">🚀</span> **Current Goal:** Actively seeking high-impact Research Assistant opportunities in **multimodal learning, computer vision** to collaborate and drive frontier machine perception research.
 
 
 <span style="font-size: 1.5em;">💻</span> <b><span style="font-size: 1.1em;"> Internship & Research Experience </span></b>
@@ -64,9 +65,10 @@ latest_posts:
     **AI Intern \| 02/2025 - 08/2025**
 
     **Key Focus & Keywords:** 
-    - Multi-Agent Financial Model
-    - Cross-Streams Attention,QKV interactions
-    - Semantic Quantification from financial text
+    - Multi-Experts solution to enhance localized signal representation across diverse alpha clusters
+    - LLM Agents System enabling both autonomous analytical workflows and on-demand task execution
+    - Cross-Streams Fusion Based on QKV Interactions
+    - Domain-Specific Financial Semantic Quantification
     - Time series forecasting
     - LaTeX, Academic Writing
   

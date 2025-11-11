@@ -39,8 +39,18 @@ The framework's specialized, adaptive design translates into strong empirical pe
     {% include figure.liquid path="assets/img/MFA/return.png" title="Cumulative Return Backtesting" class="img-fluid rounded z-depth-1" %}
     <div class="caption text-center">Figure 2. Cumulative return backtesting across 12 different commodity futures.</div>
   </div>
-</div>
 
+</div>
+#### **🎯 Model Performance Comparison**
+
+Further analysis shows the superior performance of our multi-agent framework compared to various baseline models and its efficacy in dynamic strategy allocation.
+
+<div class="row justify-content-center">
+  <div class="col-sm-12 mt-3">
+    {% include figure.liquid path="assets/img/MFA/performance.jpg" title="Model Performance and Strategy Comparison" class="img-fluid rounded z-depth-1" %}
+    <div class="caption text-center">Figure 3. Radar charts showing the performance comparison of different models across various financial products (left) and the comparison between static allocation and dynamic rebalancing strategies (right).</div>
+  </div>
+</div>
 ---
 
 #### **📈 Model-Driven Trading Decisions**
@@ -49,7 +59,7 @@ The framework provides a complete, interpretable decision-making process with cl
 
 <div class="row justify-content-center">
   <div class="col-sm-10 mt-3">
-    {% include figure.liquid path="assets/img/MFA/backtest.png" title="Model Decision Process" class="img-fluid rounded z-depth-1" %}
-    <div class="caption text-center">Figure 3. Visualization of the model's decision-making, including trade signals and profit curve.</div>
+    {% include figure.liquid path="assets/img/MFA/backtest.jpg" title="Model Decision Process" class="img-fluid rounded z-depth-1" %}
+    <div class="caption text-center">Figure 4. Visualization of the model's decision-making, including trade signals and profit curve.</div>
   </div>
 </div>
