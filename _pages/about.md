@@ -40,7 +40,7 @@ Some of my articles are currently under review. Please visit the **Projects** pa
 
 <span style="font-size: 1.6em;">💡</span> **Research Interests:****Multimodal AI** that bridges heterogeneous data modalities (e.g., vision, audio, and text) to tackle **complex, real-world problems**.
 
-<span style="font-size: 1.6em;">🚀</span> **Current Goal:** Actively seeking high-impact Research Assistant opportunities in **multimodal learning, computer vision** to collaborate and drive frontier machine perception research.
+<span style="font-size: 1.6em;">🚀</span> **Current Goal:** Actively seeking high-impact Research Assistant opportunities in **multimodal learning** to collaborate and drive frontier machine perception research.
 
 
 <span style="font-size: 1.5em;">💻</span> <b><span style="font-size: 1.1em;"> Internship & Research Experience </span></b>
