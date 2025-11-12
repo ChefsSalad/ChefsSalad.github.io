@@ -46,10 +46,10 @@ Some of my articles are currently under review. Please visit the **Projects page
 
     **Research Assistant \| 08/2024 – 01/2025**
 
-    - Cross-Modal Representation Learning, Vision-Language Models (VLMs)
-    - Contrastive Learning (CLIP)
-    - Super-Resolution and image Reconstruction
-    - Object Detection and Segmentation based on Edge Enhancement and Super-Resolution 
+    - Vision-Language Models & Contrastive Learning
+    - Super Resolution & image Reconstruction
+    - Object Detection & Segmentation 
+    - Edge Enhancement & Visual Description
     - Traditional computer image processing
   
 <p></p>
@@ -59,14 +59,14 @@ Some of my articles are currently under review. Please visit the **Projects page
 
     **AI Intern \| 02/2025 - 08/2025**
 
-    - Multi-Experts solution to enhance localized signal representation across diverse alpha clusters
-    - LLM Agents System enabling both autonomous analytical workflows and on-demand task execution
-    - Cross-Streams Fusion Based on QKV Interactions
-    - Domain-Specific Financial Semantic Quantification
+    - Multi-branch Encoder solution(MoE-inspired) 
+    - LLM Agents System 
+    - Cross-Streams Fusion(QKV Interactions)
+    - Domain-Specific Semantic Quantification
     - Time series forecasting
     - LaTeX, Academic Writing
   
-   
+
 
 
 <!-- <p style="text-align: center; margin-top: 20px;">
