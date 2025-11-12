@@ -86,13 +86,7 @@
       "startDate": "2021-09-01",
       "endDate": "2025-06-01",
       "score": "90.1/100",
-      "courses": [
-        "Deep Learning",
-        "Algorithom and Data Structures",
-        "Calculus",
-        "Linear Algebra",
-        "Probability and Mathematical Statistics"
-      ]
+      "courses": ["Deep Learning", "Algorithom and Data Structures", "Calculus", "Linear Algebra", "Probability and Mathematical Statistics"]
     }
   ],
   "awards": [
@@ -142,47 +136,31 @@
       "name": "Programming",
       "level": "Proficient",
       "icon": "",
-      "keywords": [
-        "Python",
-        "JAVA",
-        "C++"
-      ]
+      "keywords": ["Python", "JAVA", "C++"]
     },
     {
       "name": "Deep Learning Frameworks",
       "level": "Proficient",
       "icon": "",
-      "keywords": [
-        "Pytorch",
-        "TensorFlow"
-      ]
+      "keywords": ["Pytorch", "TensorFlow"]
     },
     {
       "name": "Big Data Technologies",
       "level": "Proficient",
       "icon": "",
-      "keywords": [
-        "Hadoop",
-        "Spark"
-      ]
+      "keywords": ["Hadoop", "Spark"]
     },
     {
       "name": "Database Operations",
       "level": "Proficient",
       "icon": "",
-      "keywords": [
-        "SQL",
-        "Dameng Assistant Engineer (DAE)"
-      ]
+      "keywords": ["SQL", "Dameng Assistant Engineer (DAE)"]
     },
     {
       "name": "Other",
       "level": "Proficient",
       "icon": "",
-      "keywords": [
-        "Linux system operation",
-        "Docker"
-      ]
+      "keywords": ["Linux system operation", "Docker"]
     }
   ],
   "languages": [],
@@ -203,9 +181,7 @@
     {
       "name": "Automatic Annotation System for Cervical Liquid-based Pathology Images",
       "summary": "As Group Leader, developed a system using Deformable Convolution and Spatial Attention for cervical cell detection. Fine-tuned and deployed a LLaMA medical assistant model and utilized Domain Adaptation Networks (DAN) to address the domain shift problem between data from different hospitals.",
-      "highlights": [
-        "Awarded as a National-Level project in the Undergraduate Innovation and Entrepreneurship Program"
-      ],
+      "highlights": ["Awarded as a National-Level project in the Undergraduate Innovation and Entrepreneurship Program"],
       "startDate": "2023-03-01",
       "endDate": "2024-06-01",
       "url": ""
@@ -222,14 +198,12 @@
       "url": ""
     },
     {
-        "name": "Multi-modal Solution: Deepfake Detection and the Source Identification",
-        "summary": "As Co-first Author, co-developed a multi-modal framework integrating cross-modal attention, face recognition, and audio features to improve detection accuracy. Supervised by Prof. David Woodruff of Carnegie Mellon University.",
-        "highlights": [
-            "Published in PMBDA 2023"
-        ],
-        "startDate": "2023-07-01",
-        "endDate": "2023-10-01",
-        "url": "https://doi.org/10.4108/eai.15-12-2023.2345299"
+      "name": "Multi-modal Solution: Deepfake Detection and the Source Identification",
+      "summary": "As Co-first Author, co-developed a multi-modal framework integrating cross-modal attention, face recognition, and audio features to improve detection accuracy. Supervised by Prof. David Woodruff of Carnegie Mellon University.",
+      "highlights": ["Published in PMBDA 2023"],
+      "startDate": "2023-07-01",
+      "endDate": "2023-10-01",
+      "url": "https://doi.org/10.4108/eai.15-12-2023.2345299"
     },
     {
       "name": "3D Gaussian Splatting for Visual Computing",
@@ -242,9 +216,7 @@
     {
       "name": "LinkMemo: Graph-based Vocabulary Learning System",
       "summary": "Developed and deployed a full-stack vocabulary learning website using Spring Boot, Vue.js, and a Neo4j graph database. The system manages complex word associations via a knowledge graph and implements customizable learning paths.",
-      "highlights": [
-        "Secured National Copyright Administration Software Copyright"
-      ],
+      "highlights": ["Secured National Copyright Administration Software Copyright"],
       "startDate": "2023-02-01",
       "endDate": "2023-04-01",
       "url": ""

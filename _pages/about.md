@@ -9,14 +9,7 @@ profile:
   image: cc1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <p>
-      <a href="mailto:isaacchen0223@gmail.com" target="_blank"><i class="fas fa-envelope"></i> Email</a>
-      &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="https://github.com/ChefsSalad" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-      </p>
-      <p><a href="/assets/pdf/Cheng_CHEN_CV.pdf" target="_blank" rel="noopener noreferrer"><b><i class="fas fa-file-pdf"></i> View Full CV (PDF)</b></a></p>
 
-      <p><i class="fas fa-map-marker-alt"></i> London, United Kingdom</p>
 
  
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -34,15 +27,18 @@ latest_posts:
 ---
 
 
-<span style="font-size: 1.6em;">👋</span> **Welcome to my Hub!.**
+<span style="font-size: 1.6em;">👋</span> **Welcome to my Hub!**
 
-Some of my articles are currently under review. Please visit the **Projects** page for related work, and feel free to check out the code on my <a href="https://github.com/ChefsSalad">**GitHub**</a>.
+I'm actively seeking high-impact **Research opportunities** to collaborate and drive frontier machine perception research.
 
-<span style="font-size: 1.6em;">💡</span> **Research Interests:****Multimodal AI** that bridges heterogeneous data modalities (e.g., vision, audio, and text) to tackle **complex, real-world problems**.
+Some of my articles are currently under review. Please visit the **Projects page** for related work, and feel free to check out the **code** on my GitHub.
 
-<span style="font-size: 1.6em;">🚀</span> **Current Goal:** Actively seeking high-impact Research Assistant opportunities in **multimodal learning** to collaborate and drive frontier machine perception research.
-
-
+<p style="text-align: center;">
+  <a href="https://github.com/ChefsSalad" target="_blank" style="padding: 5px 10px; background-color: #333; color: white; text-decoration: none; border-radius: 5px;">
+    <i class="fab fa-github"></i> GitHub
+  </a>
+</p>
+---
 <span style="font-size: 1.5em;">💻</span> <b><span style="font-size: 1.1em;"> Internship & Research Experience </span></b>
 
 
@@ -50,7 +46,6 @@ Some of my articles are currently under review. Please visit the **Projects** pa
 
     **Research Assistant \| 08/2024 – 01/2025**
 
-    **Key Focus & Keywords:** 
     - Cross-Modal Representation Learning, Vision-Language Models (VLMs)
     - Contrastive Learning (CLIP)
     - Super-Resolution and image Reconstruction
@@ -64,7 +59,6 @@ Some of my articles are currently under review. Please visit the **Projects** pa
 
     **AI Intern \| 02/2025 - 08/2025**
 
-    **Key Focus & Keywords:** 
     - Multi-Experts solution to enhance localized signal representation across diverse alpha clusters
     - LLM Agents System enabling both autonomous analytical workflows and on-demand task execution
     - Cross-Streams Fusion Based on QKV Interactions
@@ -82,5 +76,4 @@ Some of my articles are currently under review. Please visit the **Projects** pa
 </p> -->
 ---
     
-
 

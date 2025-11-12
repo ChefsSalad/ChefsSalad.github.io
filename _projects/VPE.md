@@ -79,7 +79,8 @@ HU = 1000 \times \frac{\mu - \mu_{water}}{\mu_{water}}
 $$
 
 Where:
-- $\mu$: Attenuation coefficient of tissue  
+
+- $\mu$: Attenuation coefficient of tissue
 - $\mu_{water}$: Attenuation coefficient of water
 
 ##### Normalization:

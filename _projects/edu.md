@@ -9,8 +9,8 @@ category: research
 
 #### **🏆 Honors & Recognition**
 
-Received **National 6th Place** in the *China College Student Computer Design Competition (4C)*  
-and **First Prize** in the *Shanghai Collegiate Application Technology Competition (Enterprise Cooperation Track)*.
+Received **National 6th Place** in the _China College Student Computer Design Competition (4C)_  
+and **First Prize** in the _Shanghai Collegiate Application Technology Competition (Enterprise Cooperation Track)_.
 
 ---
 
@@ -24,30 +24,30 @@ It enables efficient natural language interaction with educational databases, au
 
 #### **🧩 System Components**
 
-1. **Text2SQL for Natural Language Data Querying**  
-   * A **Text2SQL large model** converts user natural language queries into structured SQL statements.  
-   * Queries are executed via automated scripts, returning results as **interactive visualization charts**.  
-   * Few-shot prompting ensures logical completion and prompt engineering safeguards output reliability.
+1. **Text2SQL for Natural Language Data Querying**
+   - A **Text2SQL large model** converts user natural language queries into structured SQL statements.
+   - Queries are executed via automated scripts, returning results as **interactive visualization charts**.
+   - Few-shot prompting ensures logical completion and prompt engineering safeguards output reliability.
 
 ---
 
-2. **RAG-based Classroom Knowledge Retrieval**  
-   * Extracts **audio streams from teaching videos** and transcribes them using **OpenAI’s Whisper** model.  
-   * Builds a **vectorized classroom knowledge base** for retrieval-augmented generation (RAG).  
-   * The system retrieves relevant segments, returns the **source paragraphs as references**,  
+2. **RAG-based Classroom Knowledge Retrieval**
+   - Extracts **audio streams from teaching videos** and transcribes them using **OpenAI’s Whisper** model.
+   - Builds a **vectorized classroom knowledge base** for retrieval-augmented generation (RAG).
+   - The system retrieves relevant segments, returns the **source paragraphs as references**,  
      and uses a secondary model to **validate relevance**, mitigating model hallucinations and improving reliability.
 
 ---
 
-3. **ChatGLM3-6B Assistant Integration**  
-   * Fine-tuned and deployed **ChatGLM3-6B** as a conversational assistant for teachers and students.  
-   * Supports multi-turn, context-aware question answering and resource recommendations.
+3. **ChatGLM3-6B Assistant Integration**
+   - Fine-tuned and deployed **ChatGLM3-6B** as a conversational assistant for teachers and students.
+   - Supports multi-turn, context-aware question answering and resource recommendations.
 
 ---
 
-4. **Big Data Infrastructure (Hadoop + Spark)**  
-   * Utilizes **Hadoop** and **Apache Spark** for large-scale educational data processing, aggregation, and real-time analytics.  
-   * Enhances institutional **resource allocation**, **performance monitoring**, and **decision-making efficiency**.
+4. **Big Data Infrastructure (Hadoop + Spark)**
+   - Utilizes **Hadoop** and **Apache Spark** for large-scale educational data processing, aggregation, and real-time analytics.
+   - Enhances institutional **resource allocation**, **performance monitoring**, and **decision-making efficiency**.
 
 ---
 
@@ -66,16 +66,16 @@ It enables efficient natural language interaction with educational databases, au
 
 #### **🌍 Key Contributions**
 
-* Unified **natural language + SQL** interaction for complex educational data queries.  
-* Established a **Whisper + RAG** pipeline for classroom content retrieval and reasoning.  
-* Integrated **ChatGLM3-6B** for educational dialogue and task assistance.  
-* Leveraged **Hadoop and Spark** for large-scale educational analytics.  
-* Achieved **national and provincial awards** for innovation and real-world impact.
+- Unified **natural language + SQL** interaction for complex educational data queries.
+- Established a **Whisper + RAG** pipeline for classroom content retrieval and reasoning.
+- Integrated **ChatGLM3-6B** for educational dialogue and task assistance.
+- Leveraged **Hadoop and Spark** for large-scale educational analytics.
+- Achieved **national and provincial awards** for innovation and real-world impact.
 
 ---
 
 #### **🚀 Future Work**
 
-* Expand to **multi-institution educational data federation** using privacy-preserving computation.  
-* Integrate **speech emotion analysis** to enhance feedback from recorded lectures.  
-* Develop a **dashboard for cross-institution data visualization and AI report generation**.
+- Expand to **multi-institution educational data federation** using privacy-preserving computation.
+- Integrate **speech emotion analysis** to enhance feedback from recorded lectures.
+- Develop a **dashboard for cross-institution data visualization and AI report generation**.

@@ -61,6 +61,7 @@ To avoid the computational burden of full 3D convolutions, we utilized an innova
 Medical image segmentation demands high structural fidelity. We designed an **Enhanced Visual Perception Module** featuring a **dual-branch co-attention mechanism**.
 
 This module's strength lies in its ability to **collaboratively fuse** two essential feature types:
+
 1.  **Global Context:** Captures long-range spatial dependencies (the overall structure of the tumor).
 2.  **Local Texture:** Focuses on multi-scale texture details (the exact boundary and internal properties).
 
