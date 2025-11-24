@@ -55,7 +55,7 @@ Some of my articles are currently under review. Please visit the **Projects page
 <p></p>
 
 
-- <b>Artificial Intelligence Quantitative Research Lab (Shanghai)</b>
+- <b>TONGLIANG Quantitative Research Lab (Shanghai)</b>
 
     **AI Intern \| 02/2025 - 08/2025**
 
