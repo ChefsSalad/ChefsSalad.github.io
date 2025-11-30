@@ -61,6 +61,7 @@ Some of my articles are currently under review. Please visit the **Projects page
 
     - Multi-branch Encoder solution(MoE-inspired) 
     - LLM Agents System 
+    - Spatial Autoencoders with Latent Diffusion 
     - Cross-Streams Fusion(QKV Interactions)
     - Domain-Specific Semantic Quantification
     - Time series forecasting
