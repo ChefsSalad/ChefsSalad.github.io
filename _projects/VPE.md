@@ -3,7 +3,7 @@ layout: page
 title: "VPE Seg"
 description: "First-place solution in a national AI medical competition.Invited by 2023 Health China Sinan Summit."
 img: assets/img/VES/sliceattention.png
-importance: 1
+importance: 2
 category: research
 ---
 

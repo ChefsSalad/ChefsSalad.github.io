@@ -3,7 +3,7 @@ layout: page
 title: "Multi-Agent Financial Model"
 description: "A novel multi-agent framework for quantitative trading."
 img: assets/img/MFA/frame.jpg
-importance: 2
+importance: 3
 category: research
 ---
 

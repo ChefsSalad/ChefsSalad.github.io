@@ -44,7 +44,7 @@ Some of my articles are currently under review. Please visit the **Projects page
 
 - <b><a href='http://english.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a></b>
 
-    **Research Assistant \| 08/2024 – 01/2025**
+    **08/2024 – 01/2025**
 
     - Vision-Language Models & Contrastive Learning
     - Super Resolution & image Reconstruction
@@ -55,19 +55,15 @@ Some of my articles are currently under review. Please visit the **Projects page
 <p></p>
 
 
-- <b>TONGLIANG Quantitative Research Lab (Shanghai)</b>
+- <b>TONGLIANG Quantitative Research Lab</b>
 
-    **AI Intern \| 02/2025 - 08/2025**
+    **02/2025 - 08/2025**
 
+    - Diffusion with Manifold Stepping for Alpha Mining
+    - Spatial Encoders featuring Prefix-Tuning, Asset-Embedding Queries and FiLM
     - Multi-branch Encoder solution(MoE-inspired) 
-    - LLM Agents System 
-    - Spatial Autoencoders with Latent Diffusion 
-    - Cross-Streams Fusion(QKV Interactions)
-    - Domain-Specific Semantic Quantification
-    - Time series forecasting
-    - LaTeX, Academic Writing
-  
-
+    - LLM Agents System for autonomous Workflow
+    - Cross-Streams Semantic Quantification & QKV Interactions
 
 
 <!-- <p style="text-align: center; margin-top: 20px;">
