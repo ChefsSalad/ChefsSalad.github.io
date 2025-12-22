@@ -58,6 +58,11 @@ ninja.data = [{
           description: "Research on satellite AI application, including large Visual-Language Model, Image-Text Matching, Super-Resolution, Object Detection, Segmentation, Edge Enhancement and so on.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/satellite.html";
+            },},{id: "projects-manifold-stepping-alpha",
+          title: 'Manifold Stepping Alpha',
+          description: "Research on cross-asset dependency and signal evolution via Latent-domain Diffusion, Prefix-Tuning, and Manifold-constrained Autoencoders.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tsld.html";
             },},{
         id: 'social-email',
         title: 'email',
