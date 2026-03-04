@@ -28,39 +28,39 @@ ninja.data = [{
           section: "News",},{id: "news-received-national-6th-place-in-the-china-college-student-computer-design-competition-4c-1st-prize-in-the-shanghai-collegiate-application-technology-competition",
           title: 'Received National 6th Place in the China College Student Computer Design Competition (4C);...',
           description: "",
-          section: "News",},{id: "projects-multi-agent-financial-model",
-          title: 'Multi-Agent Financial Model',
-          description: "A novel multi-agent framework for quantitative trading.",
+          section: "News",},{id: "projects-disentangled-alpha-representation",
+          title: 'Disentangled Alpha Representation',
+          description: "Multi-branch Encoders framework for diverse alpha clusters.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MFA.html";
             },},{id: "projects-multimodal-detection",
           title: 'Multimodal Detection',
-          description: "A collaborative project with CMU on multimodal deepfake detection and biometric authentication",
+          description: "A collaborative project with CMU on multimodal deepfake detection and biometric authentication.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MM.html";
-            },},{id: "projects-vpe-seg",
-          title: 'VPE Seg',
-          description: "First-place solution in a national AI medical competition.Invited by 2023 Health China Sinan Summit.",
+            },},{id: "projects-vpe-segmentation",
+          title: 'VPE Segmentation',
+          description: "1st Place @ Shanghai AI Lab DIMTAIC 2023 Segmentation CompetitionInvited Participant at the 2023 Health China Sinan Summit.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/VPE.html";
             },},{id: "projects-cervical-cell-detection",
           title: 'Cervical Cell Detection',
-          description: "Domain-adaptive and deformable convolution-based cervical cell detection with medical LLM fine-tuning",
+          description: "National-Level project in the Undergraduate Innovation and Entrepreneurship Program.Domain-adaptive cervical cell detection &amp; medical RAG.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/detection.html";
             },},{id: "projects-edu-platform",
           title: 'Edu Platform',
-          description: "AI-powered educational system with Text2SQL &amp; RAG &amp; Chatbot",
+          description: "National Second Prize, Chinese Collegiate Computing Competition (4C); AI-powered educational system with Text2SQL &amp; RAG.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/edu.html";
-            },},{id: "projects-remote-sensing-data-research",
-          title: 'Remote sensing data Research',
-          description: "Research on satellite AI application, including large Visual-Language Model, Image-Text Matching, Super-Resolution, Object Detection, Segmentation, Edge Enhancement and so on.",
+            },},{id: "projects-ai4-commercial-aerospace",
+          title: 'AI4 Commercial Aerospace',
+          description: "Research on satellite AI application, including large Visual-Language Model and various Computer Vision tasks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/satellite.html";
             },},{id: "projects-manifold-stepping-alpha",
           title: 'Manifold Stepping Alpha',
-          description: "Research on cross-asset dependency and signal evolution via Latent-domain Diffusion, Prefix-Tuning, and Manifold-constrained Autoencoders.",
+          description: "Research on cross-asset dependency and  the score-based gradient field of market latent space via Diffusion.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tsld.html";
             },},{
