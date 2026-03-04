@@ -1,16 +1,21 @@
 ---
 layout: page
-title: "VPE Seg"
-description: "First-place solution in a national AI medical competition.Invited by 2023 Health China Sinan Summit."
+title: "VPE Segmentation"
+description: "1st Place @ Shanghai AI Lab DIMTAIC 2023 Segmentation Competition
+
+Invited Participant at the 2023 Health China Sinan Summit."
 img: assets/img/VES/sliceattention.png
 importance: 2
 category: research
 ---
 
+<style> h4 { font-size: 1.4em; } h5 { font-size: 1.2em; } .caption { font-size: 1.1em; } </style>
+
 #### 🏆 **Competition & Recognition**
 
-This project achieved **1st place** in the AI medical image segmentation track co-organized by **Shanghai AI Laboratory** and **Ruijin Hospital, Shanghai Jiao Tong University School of Medicine**.  
-It was subsequently invited for presentation at the **2023 Healthy China Sinan Summit** and the **Frontiers of Digital Medicine Forum**.
+**1st Place** @ Shanghai AI Lab DIMTAIC 2023 Segmentation Competition
+
+Invited Participant at the **2023 Health China Sinan Summit**
 
 ---
 
@@ -31,7 +36,7 @@ This method analyzes the Hounsfield Unit (HU) distribution from a colorectal tum
 - **Noise cropping using object detection**
 
 <div class="row justify-content-center">
-  <div class="col-sm-8 mt-3">
+  <div class="col-sm-5 mt-3">
     {% include figure.liquid path="assets/img/VES/preprocessing.png" title="Data Preprocessing Pipeline" class="img-fluid rounded z-depth-1" %}
     <div class="caption text-center">Figure 1. Data preprocessing pipeline for HU clipping and noise removal.</div>
   </div>
@@ -44,12 +49,12 @@ This method analyzes the Hounsfield Unit (HU) distribution from a colorectal tum
 We propose a 2.5D data structure where adjacent slices are stacked as channels.  
 A slice-wise attention module dynamically reweights each channel to focus on informative regions.
 
-<div class="row justify-content-center">
-  <div class="col-sm-8 mt-3">
+<div class="row justify-content-center align-items-center">
+  <div class="col-sm-6 mt-3">
     {% include figure.liquid path="assets/img/VES/sliceattention.png" title="Slice Attention Mechanism" class="img-fluid rounded z-depth-1" %}
     <div class="caption text-center">Figure 2. Slice-wise attention mechanism highlights important slices.</div>
   </div>
-  <div class="col-sm-8 mt-3">
+  <div class="col-sm-5 mt-3">
     {% include figure.liquid path="assets/img/VES/SAH.png" title="Channel Attention Effects" class="img-fluid rounded z-depth-1" %}
     <div class="caption text-center">Figure 3. Visualization of slice-level attention weights.</div>
   </div>
@@ -62,7 +67,7 @@ A slice-wise attention module dynamically reweights each channel to focus on inf
 We design a **dual-branch co-attention mechanism** to fuse global context and multi-scale local texture features, enabling strong segmentation under complex conditions.
 
 <div class="row justify-content-center">
-  <div class="col-sm-8 mt-3">
+  <div class="col-sm-5 mt-3">
     {% include figure.liquid path="assets/img/VES/MBCA.png" title="Dual-branch Co-attention" class="img-fluid rounded z-depth-1" %}
     <div class="caption text-center">Figure 4. Visual perception module combining long-range and local texture cues.</div>
   </div>

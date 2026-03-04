@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Manifold Stepping Alpha"
-description: "Research on cross-asset dependency and signal evolution via Latent-domain Diffusion, Prefix-Tuning, and Manifold-constrained Autoencoders."
+description: "Research on cross-asset dependency and  the score-based gradient field of market latent space via Diffusion."
 img: assets/img/tsld/new.png
 importance: 1
 category: research
@@ -67,6 +67,21 @@ By applying **Manifold Stepping**, we extract non-linear Alpha residuals from st
 The **Market Tension (10D MA)** consistently breaches the **95% Risk Threshold** prior to major volatility events, such as the "Liquidity Tantrum," "Trade War Escalation," and the "Soleimani Crisis".
 
 ---
+
+---
+
+#### **🛡️ Generative Stress Testing & Risk Synthesis**
+
+Beyond alpha extraction, the **Reverse Diffusion Process** enables the synthesis of high-fidelity, out-of-distribution market scenarios for robust risk evaluation.
+
+<div class="row justify-content-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/tsld/stress_test_combined.png" title="Generative Stress Testing: Synthetic Scenario Projection vs. Historical Tail Events" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+- **Stochastic Scenario Projection:** By sampling from the learned score-based gradient field, we synthesize "shadow" market snapshots that maintain complex cross-asset correlations, even in non-linear tail-risk regimes.
+- **Tail-Risk Resilience:** The framework evaluates portfolio performance under simulated shocks (e.g., synchronized liquidity collapse), providing a more granular stress test than traditional Monte Carlo methods by respecting the underlying latent manifold constraints.
 
 #### **🌍 Practical Application & Portfolio Impact**
 

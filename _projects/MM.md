@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Multimodal Detection"
-description: "A collaborative project with CMU on multimodal deepfake detection and biometric authentication"
+description: "A collaborative project with CMU on multimodal deepfake detection and biometric authentication."
 img: assets/img/MM/arch.png
-importance: 3
+importance: 4
 category: research
 ---
 

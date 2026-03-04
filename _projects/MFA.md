@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Multi-Agent Financial Model"
-description: "A novel multi-agent framework for quantitative trading."
+title: "Disentangled Alpha Representation"
+description: "Multi-branch Encoders framework for diverse alpha clusters."
 img: assets/img/MFA/frame.jpg
 importance: 3
 category: research
@@ -10,8 +10,6 @@ category: research
 #### **🧠 Motivation & Core Idea**
 
 Financial factor systems are inherently complex, diverse, and noisy. These signals exhibit vastly different efficacy and stability across various market regimes and time scales. Traditional methods often employ a "one-size-fits-all" approach, attempting to capture all data states with a single, complex model. This limits their ability to adapt to local structures, often failing to capture nuanced details while struggling with robust generalization.
-
-Inspired by the **Mixture of Experts (MoE)** strategy, widely successful in Large Language Models, we propose a multi-agent system. This approach enables sparse computation and effective model scaling, allowing individual agents to focus on specific local signals for enhanced representation, and collaborate efficiently through an adaptive, collective modeling strategy.
 
 ---
 

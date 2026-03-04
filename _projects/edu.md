@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Edu Platform"
-description: "AI-powered educational system with Text2SQL & RAG & Chatbot"
+description: "National Second Prize, Chinese Collegiate Computing Competition (4C); AI-powered educational system with Text2SQL & RAG."
 img: assets/img/edu/award1.JPG
 importance: 6
 category: research

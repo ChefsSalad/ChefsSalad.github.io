@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>MSc Candidate in Computational Science at <a href='https://www.imperial.ac.uk/'>Imperial College London</a>.</b>
+subtitle: <b>MSc in Computational Science at <a href='https://www.imperial.ac.uk/'>Imperial College London</a>.</b>
 
 profile:
   align: right
@@ -29,41 +29,53 @@ latest_posts:
 
 <span style="font-size: 1.6em;">👋</span> **Welcome to my Hub!**
 
-I'm actively seeking high-impact **Research opportunities** to collaborate and drive frontier machine perception research.
 
-Some of my articles are currently under review. Please visit the **Projects page** for related work, and feel free to check out the **code** on my GitHub.
+Please feel free to explore the [**Projects page**](/projects) and my <a href="https://github.com/ChefsSalad" target="_blank" style="padding: 5px 10px; background-color: #333; color: white; text-decoration: none; border-radius: 5px;"><i class="fab fa-github"></i> GitHub</a>
 
-<p style="text-align: center;">
-  <a href="https://github.com/ChefsSalad" target="_blank" style="padding: 5px 10px; background-color: #333; color: white; text-decoration: none; border-radius: 5px;">
-    <i class="fab fa-github"></i> GitHub
-  </a>
-</p>
+
 ---
 <span style="font-size: 1.5em;">💻</span> <b><span style="font-size: 1.1em;"> Internship & Research Experience </span></b>
 
+<div style="height: 12px;"></div>
+
+- <b>JIAYING FUND| Hanvo Capital</b>
+
+    **08/2024 – Present (Part-time)**
+
+    - LP/GP Share Secondary Transfers
+    - Market Intelligence within LUJIAZUI FINANCIAL CLUB
+    - "AI+" Startups Support
+
+<div style="height: 12px;"></div>
+
+- <b>TONGLIANG AI</b>
+
+    **02/2025 - 07/2025**
+
+    - Cross-sectional Encoders(Prefix-Tuning & FiLM)
+    - Latent Space Diffusion(Gradient Field & Stress Test)
+    - Multi-branch Disentangled Alpha Representation
+    - Cross-Source Synthesis via Q-K-V interactions 
+    - LLM Agents System for autonomous Workflow
+    - High-Fidelity Document Ingestion & Downstream NLP Tasks
+
+<div style="height: 12px;"></div>
 
 - <b><a href='http://english.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a></b>
 
     **08/2024 – 01/2025**
 
     - Vision-Language Models & Contrastive Learning
-    - Super Resolution & image Reconstruction
+    - End-to-End System for Commercial Aerospace
+    - Super-Heterogeneous Signal Fusion
+    - Super Resolution & Image Reconstruction
     - Object Detection & Segmentation 
-    - Edge Enhancement & Visual Description
-    - Traditional computer image processing
+
   
 <p></p>
 
 
-- <b>TONGLIANG Quantitative Research Lab</b>
 
-    **02/2025 - 08/2025**
-
-    - Diffusion with Manifold Stepping for Alpha Mining
-    - Spatial Encoders featuring Prefix-Tuning, Asset-Embedding Queries and FiLM
-    - Multi-branch Encoder solution(MoE-inspired) 
-    - LLM Agents System for autonomous Workflow
-    - Cross-Streams Semantic Quantification & QKV Interactions
 
 
 <!-- <p style="text-align: center; margin-top: 20px;">

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Cervical Cell Detection"
-description: "Domain-adaptive and deformable convolution-based cervical cell detection with medical LLM fine-tuning"
+description: "National-Level project in the Undergraduate Innovation and Entrepreneurship Program.Domain-adaptive cervical cell detection & medical RAG."
 img: assets/img/medical/domain_adapt_arch.png
-importance: 4
+importance: 7
 category: research
 ---
 

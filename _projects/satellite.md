@@ -1,11 +1,15 @@
 ---
 layout: page
-title: "Remote sensing data Research"
-description: "Research on satellite AI application, including large Visual-Language Model, Image-Text Matching, Super-Resolution, Object Detection, Segmentation, Edge Enhancement and so on."
+title: "AI4 Commercial Aerospace "
+description: "Research on satellite AI application, including large Visual-Language Model and various Computer Vision tasks."
 img: assets/img/satellite/redsr.png
-importance: 3
+importance: 5
 category: research
 ---
+
+
+#### **👨‍🏫 Main Tasks**
+Research on satellite AI application, including large Visual-Language Model, Image-Text Matching, Super-Resolution, Object Detection, Segmentation, Edge Enhancement and so on.
 
 #### **🧠 Motivation & Core Idea**
 
