@@ -38,7 +38,7 @@ Please feel free to explore the [**Projects page**](/projects) and my <a href="h
 
 <div style="height: 12px;"></div>
 
-- <b>JIAYING FUND| Hanvo Capital</b>
+- <b>JIAYING FUND | Hanvo Capital</b>
 
     **08/2024 – Present (Part-time)**
 

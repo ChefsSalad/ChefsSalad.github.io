@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The "Automatic Annotation System for Cervical Liquid-based Pathology Images" project I led was awarded **National-Level** status in China College Students Innovation and Entrepreneurship Competition.
+Awarded **National-Level** status in China College Students Innovation and Entrepreneurship Program.
