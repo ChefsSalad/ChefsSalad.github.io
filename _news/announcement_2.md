@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-20
+date: 2023-12-15
 inline: true
 ---
 
-**National 6th Place** in the China College Student Computer Design Competition (4C); **1st Prize** in the Shanghai Collegiate Application Technology Competition.
+Honored to attend the **2023 Health China Sinan Summit** as an invited participant.

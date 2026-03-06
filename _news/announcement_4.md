@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-01
+date: 2024-07-02
 inline: true
 ---
 
-**1st Place** at Shanghai AI Lab DIMTAIC 2023.
+**Software Copyright** officially registered with the National Copyright Administration of China (NCAC)
