@@ -4,4 +4,4 @@ date: 2024-07-02
 inline: true
 ---
 
-**Software Copyright** officially registered with the National Copyright Administration of China (NCAC)
+**Software Copyright** officially registered with the National Copyright Administration of China (NCAC).
