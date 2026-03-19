@@ -34,13 +34,13 @@ Please feel free to explore the [**Projects page**](/projects) and my <a href="h
 
 
 ---
-<span style="font-size: 1.5em;">💻</span> <b><span style="font-size: 1.1em;"> Internship & Research Experience </span></b>
+<span style="font-size: 1.5em;">💻</span> <b><span style="font-size: 1.1em;"> Professional & Research Experience</span></b>
 
 <div style="height: 12px;"></div>
 
 - <b>JIAYING FUND | Hanvo Capital</b>
 
-    **08/2024 – Present (Part-time)**
+    **08/2024 – Present(Ad-hoc)**
 
     - LP/GP Share Secondary Transfers
     - Market Intelligence within LUJIAZUI FINANCIAL CLUB
@@ -73,9 +73,6 @@ Please feel free to explore the [**Projects page**](/projects) and my <a href="h
 
   
 <p></p>
-
-
-
 
 
 <!-- <p style="text-align: center; margin-top: 20px;">
