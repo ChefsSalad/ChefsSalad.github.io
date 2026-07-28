@@ -48,28 +48,40 @@ Please feel free to explore the [**Projects page**](/projects) and my <a href="h
 
 <div style="height: 12px;"></div>
 
-- <b>TONGLIANG AI</b>
+- <b>AIP Invest</b>
 
-    **02/2025 - 07/2025**
+    **04/2026 – 07/2026**
 
-    - Cross-sectional Encoders(Prefix-Tuning & FiLM)
-    - Latent Space Diffusion(Gradient Field & Stress Test)
-    - Multi-branch Disentangled Alpha Representation
-    - Cross-Source Synthesis via Q-K-V interactions 
-    - LLM Agents System for autonomous Workflow
-    - High-Fidelity Document Ingestion & Downstream NLP Tasks
+    - Agent Systems for LP & GP Workflows
+    - Heterogeneous Graph model over LP–Fund–GP Network
 
 <div style="height: 12px;"></div>
 
-- <b><a href='http://english.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a></b>
+- <b>Tsinghua University</b>
+
+    **01/2026 – 06/2026**
+
+    - Cross-Sectional Market States Representation Learning
+    - Jacobian-Diffusion Gradient Alpha
+
+<div style="height: 12px;"></div>
+
+- <b>TONGLIANG AI</b>
+
+    **02/2025 – 08/2025**
+
+    - Meta-Learning for Disentangled Alpha Representation
+    - Contrastive Learning for Textual Sentiment Analysis
+    - RAG & LLM Agents for Autonomous Research Workflows
+
+<div style="height: 12px;"></div>
+
+- <b>Institute of Computing Technology, Chinese Academy of Sciences</b>
 
     **08/2024 – 01/2025**
 
-    - Vision-Language Models & Contrastive Learning
-    - End-to-End System for Commercial Aerospace
-    - Super-Heterogeneous Signal Fusion
-    - Super Resolution & Image Reconstruction
-    - Object Detection & Segmentation 
+    - Vision-Language Models for Commercial Aerospace
+    - Super Resolution & Object Detection & Segmentation
 
   
 <p></p>

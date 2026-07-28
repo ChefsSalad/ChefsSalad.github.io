@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ssh-add ~/.ssh/id_rsa)",
+      "Bash(ssh -T -p 443 git@ssh.github.com -o ConnectTimeout=8)",
+      "Bash(ssh -T git@github.com -o ConnectTimeout=8)",
+      "Bash(pbcopy)",
+      "Bash(pbpaste)",
+      "Read(//Users/cc325/IsaacHub/Github/PolyAlpha/**)",
+      "Read(//Users/cc325/IsaacHub/Github/**)",
+      "Read(//Users/cc325/IsaacHub/**)",
+      "Bash(grep -n -B3 -A3 \"train_temporal_diffusion\" /Users/cc325/IsaacHub/Github/GPE-JDG/run_complete_pipeline.py | head -20)",
+      "Read(//Users/cc325/IsaacHub/Github/GPE-JDG/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/cc325/IsaacHub/Github/PolyAlpha",
+      "/Users/cc325/IsaacHub/Github/GPE-JDG"
+    ]
+  }
+}
