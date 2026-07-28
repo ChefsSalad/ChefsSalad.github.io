@@ -56,16 +56,16 @@ ninja.data = [{
           description: "National Second Prize, Chinese Collegiate Computing Competition (4C); AI-powered educational system with Text2SQL &amp; RAG.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/edu.html";
+            },},{id: "projects-gpe-jdg",
+          title: 'GPE-JDG',
+          description: "Cross-sectional structural tension in commodity futures: trading signals from latent-space diffusion gradients.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gpe-jdg.html";
             },},{id: "projects-ai4-commercial-aerospace",
           title: 'AI4 Commercial Aerospace',
           description: "Research on satellite AI application, including large Visual-Language Model and various Computer Vision tasks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/satellite.html";
-            },},{id: "projects-manifold-stepping-alpha",
-          title: 'Manifold Stepping Alpha',
-          description: "Research on cross-asset dependency and  the score-based gradient field of market latent space via Diffusion.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tsld.html";
             },},{
         id: 'social-email',
         title: 'email',
